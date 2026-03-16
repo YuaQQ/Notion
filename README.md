@@ -9,7 +9,7 @@
 
 [集成文献管理工具Zotero的下载与安装](Private%20%26%20Shared/AP%20Research%202025%20-%202026/%E9%9B%86%E6%88%90%E6%96%87%E7%8C%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7Zotero%E7%9A%84%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%2026220bc766188030b22de0a5851c9449.md)
 
-[丰富Zotero功能第一步：在Zotero软件内安装“应用市场”](Private%20%26%20Shared/AP%20Research%202025%20-%202026/%E4%B8%B0%E5%AF%8CZotero%E5%8A%9F%E8%83%BD%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%9A%E5%9C%A8Zotero%E8%BD%AF%E4%BB%B6%E5%86%85%E5%AE%89%E8%A3%85%E2%80%9C%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA%E2%80%9D%2026220bc76618804f92d4fd5ef69d26f7.md)
+[丰富Zotero功能第一步：在Zotero软件内安装"应用市场"](Private%20%26%20Shared/AP%20Research%202025%20-%202026/%E4%B8%B0%E5%AF%8CZotero%E5%8A%9F%E8%83%BD%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%9A%E5%9C%A8Zotero%E8%BD%AF%E4%BB%B6%E5%86%85%E5%AE%89%E8%A3%85%E2%80%9C%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA%E2%80%9D%2026220bc76618804f92d4fd5ef69d26f7.md)
 
 [丰富Zotero功能第二步：在Zotero软件的插件市场里安装喜欢的插件](Private%20%26%20Shared/AP%20Research%202025%20-%202026/%E4%B8%B0%E5%AF%8CZotero%E5%8A%9F%E8%83%BD%E7%AC%AC%E4%BA%8C%E6%AD%A5%EF%BC%9A%E5%9C%A8Zotero%E8%BD%AF%E4%BB%B6%E7%9A%84%E6%8F%92%E4%BB%B6%E5%B8%82%E5%9C%BA%E9%87%8C%E5%AE%89%E8%A3%85%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E4%BB%B6%2026220bc7661880518399f194573c3cb7.md)
 
@@ -142,4 +142,4 @@ The aim of research ethics is to guide researchers to conduct their studies and 
 
 [Harvard 2019 Example Essay 3](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Harvard%202019%20Example%20Essay%203%2026020bc766188059b9f6f20d3aa407c6.md)
 
-[Stanford Example Essay](AP%20Research%202025%20-%202026/Stanford%20Example%20Essay%2025f20bc7661880279b5ae9a83d5111e8.md)
+[Stanford Example Essay](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Stanford%20Example%20Essay%2025f20bc7661880279b5ae9a83d5111e8.md)
