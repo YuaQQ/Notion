@@ -1,5 +1,3 @@
 # Biology
-
-[炫酷技术们的应用场景](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Experimental%20Techniques/Biology/%E7%82%AB%E9%85%B7%E6%8A%80%E6%9C%AF%E4%BB%AC%E7%9A%84%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%202be20bc7661880b781f4cceb5823c28a.md)
-
-[能在学校实验室完成的实验的实操指南](Biology/%E8%83%BD%E5%9C%A8%E5%AD%A6%E6%A0%A1%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%AE%8C%E6%88%90%E7%9A%84%E5%AE%9E%E9%AA%8C%E7%9A%84%E5%AE%9E%E6%93%8D%E6%8C%87%E5%8D%97%202be20bc7661880bebf31c289f2d78e32.md)
+[炫酷技术们的应用场景](https://yuaqq.github.io/Notion/#/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Experimental%20Techniques/Biology/%E7%82%AB%E9%85%B7%E6%8A%80%E6%9C%AF%E4%BB%AC%E7%9A%84%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%202be20bc7661880b781f4cceb5823c28a ':ignore')
+[能在学校实验室完成的实验的实操指南](https://yuaqq.github.io/Notion/#/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Experimental%20Techniques/Biology/%E8%83%BD%E5%9C%A8%E5%AD%A6%E6%A0%A1%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%AE%8C%E6%88%90%E7%9A%84%E5%AE%9E%E9%AA%8C%E7%9A%84%E5%AE%9E%E6%93%8D%E6%8C%87%E5%8D%97%202be20bc7661880bebf31c289f2d78e32 ':ignore')
