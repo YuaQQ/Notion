@@ -12,7 +12,7 @@
 
 ### Methodological Control
 
-# Classes of data & the datatype in [R](../Introduction%20to%20R%20(Cr%20Amber%20Zhang)%202bf20bc7661880d8a42efd8e53fc0077.md)
+# Classes of data & the datatype in [R](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Introduction%20to%20R%20%28Cr%20Amber%20Zhang%29%202bf20bc7661880d8a42efd8e53fc0077.md)
 
 | **Class** | **Notes** |
 | --- | --- |
