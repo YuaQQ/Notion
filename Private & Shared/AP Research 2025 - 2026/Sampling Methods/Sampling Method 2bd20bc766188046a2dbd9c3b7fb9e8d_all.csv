@@ -1,0 +1,11 @@
+﻿Name,Core Principle,Primary Applicable Scenarios,Type
+Simple Random Sampling,"Equal probability, purely random",Fundamental method; applicable in small population with an easily obtainable list,Probability
+Systematic Sampling,Fixed interval random selection,Randomly ordered list,Probability
+Stratified Sampling,"1st step: Stratify.
+2nd step: Sample randomly within strata",Clearly stratified population (subgroup representativeness should be ensured),Probability
+Cluster Sampling,Randomly select clusters; survey all members within the clusters.,Surveys where units are widely dispersed and implementation costs are high,Probability
+Multi-Stage Sampling,Combines different methods over multiple stages,"Large-scale, complex national or regional surveys",Probability
+Convenience Sampling,Based on ease of access,"Pilot testing, exploratory research",Non-Probability
+Purpose Sampling,Subjective selection based on research purpose,"Case studies, qualitative research",Non-Probability
+Quota Sampling,Fill quotas set to match population structure,"Market research, opinion polls where structurally approximate samples are obtained",Non-Probability
+Snowball Sampling,Obtain sample through referral chains,"Research on hard-to-reach, hidden specific populations",Non-Probability

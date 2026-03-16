@@ -1,0 +1,21 @@
+# The Humanities Thinking Framework
+
+[Original Article: **The Unintended Value of the Humanities**](The%20Humanities%20Thinking%20Framework/Original%20Article%20The%20Unintended%20Value%20of%20the%20Human%2026020bc7661880b8b851cd444034a584.md)
+
+1. **Utility is Unintended and Unpredictable:** The core argument is that the instrumental value of humanities research is almost never immediate, direct, or designed. Its utility lies in its **unintended consequences**. Scholars study Shakespeare or Descartes for their own sake, not to found an intelligence agency or create a new computer language, but that deep, specialized knowledge can—often decades later—spark unforeseen innovations in completely different fields.
+2. **Intrinsic Value is Primary:** The humanities derive their purpose first and foremost from **intrinsic value**—the pursuit of knowledge, aesthetic wonder, and understanding for its own sake. The article argues that this is a valid and sufficient justification for the discipline. The demand for immediate, measurable, extrinsic utility misunderstands the fundamental nature of pure research, which is common to all disciplines, including the sciences (as exemplified by NASA).
+3. **It Serves as an Interdisciplinary Bridge:** Humanities research does not exist in a vacuum. The article cites a "clickstream map of science" study showing that humanities and social science journals act as a **central hub**, connecting disparate fields and sparking new, interdisciplinary ideas. The humanities provide the foundational concepts, frameworks, and modes of analysis that other disciplines draw upon.
+4. **It Provides Essential Frameworks and Methods:** Humanities research has produced methodologies with significant applied value. The article highlights how the core framework of humanities research—**footnotes, bibliographies, and cross-referencing**—was adopted by the OSS (precursor to the CIA) to invent the modern science of intelligence analysis. Similarly, the interpretive skills honed by studying literary criticism were directly applied to counterintelligence work.
+5. **The "Why" Precedes the "What":** The value of the humanities is often in shaping **how we think** rather than **what we know**. The example of medical students studying art to become more observant and flexible thinkers illustrates this. The humanities teach complexity, critical interpretation, and openness to ambiguity—skills that are instrumentally valuable but are a byproduct of engaging with the material itself.
+6. **It Challenges Instrumental Demands as a Misunderstanding of Research:** The article firmly rejects the notion that humanities scholars must "justify their worth" with predefined outcomes. This demand is based on a fundamental misunderstanding of the nature of **research itself**, which is defined by the "core principle of the unknown outcome." If the utility of a project is known in advance, it ceases to be research and becomes development or implementation. This "essential cluelessness" is common to all research, from poetry to physics.
+
+In summary, the humanities discipline-specific way of knowing is characterized by a focus on intrinsic value and deep, contextual understanding whose practical applications are **serendipitous, long-term, and indirect**. Its power lies in providing foundational frameworks, fostering interpretive skills, and connecting ideas across disciplines in unpredictable ways that ultimately prove to be instrumentally valuable.
+
+### **Problem Statement Template that can be used to describe and narrow the researcher’s topic of inquiry**
+
+---
+
+- There is a problem in or with determining the root cause of ___________
+- Despite the pervading theory that ____________________ (a commonly accepted explanation), ______________ has been offered as an explanation (provide supporting evidence after this statement).
+- This problem has negatively impacted _____________________(something influenced by the theory) because _________________ (provide supporting evidence after this statement).
+- A possible cause of this problem is _____________. Perhaps a study which investigates ____________________ by _____________ (method) could remedy this problem.

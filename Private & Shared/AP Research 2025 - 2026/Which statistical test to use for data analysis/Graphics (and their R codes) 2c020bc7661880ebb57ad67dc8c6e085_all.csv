@@ -1,0 +1,6 @@
+﻿Graph,Function,Select,Significance
+Boxplot,Provide information about whether the data is (roughly) Normally distributed,Exploratory,May need to be computed first for quick data check (for Normality & variance) because a lot of statistical tests have an assumption that the data fit a Normal distribution.
+Histogram,Shows the frequency of occurrence for values in set ranges,Exploratory,
+Scatterplot,Examines the relationship between two numerical values.,Exploratory,Residuals between the observed value & expected value on the fitted line can be computed. See the R code on the page.
+Structure plot,Used to look at count data.,Exploratory,
+Bar graph,,Exploratory,

@@ -1,0 +1,9 @@
+﻿ANOVA Types,# of predictors,Factor Type,Example Research Question
+One-way ANOVA,1,Between-Subjects,Does swallow mass differ across different SITEs?
+Two-way Factorial ANOVA,2,Between-Subjects,Do SITE and MONTH (and their interaction) predict swallow mass?
+Three-way Factorial ANOVA,3,Between-Subjects,"Do SITE, MONTH, and BROODPATCH predict swallow mass?"
+Four-way Factorial ANOVA,4,Between-Subjects,
+Nested ANOVA,>2,Between-Subjects,Does the variation in mass among individual BIRDS (Nested) differ within each SITE?
+Split-plot ANOVA,>2,Mixed (Spatial/Temporal),"Does MONTH (Whole Plot) affect MASS, and do different SITEs (Sub-Plot) respond differently? (Often applied in agriculture/ecology)"
+One-way within groups ANOVA,1,Within-Subjects,"Does swallow mass change significantly across Time (e.g., baseline, 1 month, 2 months)?"
+Repeated measures ANOVA with one within-groups factor (W) and one between-groups factor (B),2,Mixed (1 W 1 B),Does the change in mass over Time (W) differ between birds from different SITE (B)s?

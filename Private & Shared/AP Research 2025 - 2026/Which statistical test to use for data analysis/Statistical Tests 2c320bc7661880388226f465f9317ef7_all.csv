@@ -1,0 +1,5 @@
+﻿Test,Covariate,Levels,Predictor,Response
+t-test,No,2,Discrete,"Continuous, Single"
+ANOVA,No,>2,Discrete,"Continuous, Single"
+ANCOVA,Continuous,>2,Discrete,"Continuous, Single"
+MANOVA,,,,
