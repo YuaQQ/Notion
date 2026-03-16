@@ -7,69 +7,69 @@
 
 ## Start with Zotero for literature management
 
-[集成文献管理工具Zotero的下载与安装](AP%20Research%202025%20-%202026/%E9%9B%86%E6%88%90%E6%96%87%E7%8C%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7Zotero%E7%9A%84%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%2026220bc766188030b22de0a5851c9449.md)
+[集成文献管理工具Zotero的下载与安装](Private%20%26%20Shared/AP%20Research%202025%20-%202026/%E9%9B%86%E6%88%90%E6%96%87%E7%8C%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7Zotero%E7%9A%84%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%2026220bc766188030b22de0a5851c9449.md)
 
-[丰富Zotero功能第一步：在Zotero软件内安装“应用市场”](AP%20Research%202025%20-%202026/%E4%B8%B0%E5%AF%8CZotero%E5%8A%9F%E8%83%BD%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%9A%E5%9C%A8Zotero%E8%BD%AF%E4%BB%B6%E5%86%85%E5%AE%89%E8%A3%85%E2%80%9C%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA%E2%80%9D%2026220bc76618804f92d4fd5ef69d26f7.md)
+[丰富Zotero功能第一步：在Zotero软件内安装“应用市场”](Private%20%26%20Shared/AP%20Research%202025%20-%202026/%E4%B8%B0%E5%AF%8CZotero%E5%8A%9F%E8%83%BD%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%9A%E5%9C%A8Zotero%E8%BD%AF%E4%BB%B6%E5%86%85%E5%AE%89%E8%A3%85%E2%80%9C%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA%E2%80%9D%2026220bc76618804f92d4fd5ef69d26f7.md)
 
-[丰富Zotero功能第二步：在Zotero软件的插件市场里安装喜欢的插件](AP%20Research%202025%20-%202026/%E4%B8%B0%E5%AF%8CZotero%E5%8A%9F%E8%83%BD%E7%AC%AC%E4%BA%8C%E6%AD%A5%EF%BC%9A%E5%9C%A8Zotero%E8%BD%AF%E4%BB%B6%E7%9A%84%E6%8F%92%E4%BB%B6%E5%B8%82%E5%9C%BA%E9%87%8C%E5%AE%89%E8%A3%85%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E4%BB%B6%2026220bc7661880518399f194573c3cb7.md)
+[丰富Zotero功能第二步：在Zotero软件的插件市场里安装喜欢的插件](Private%20%26%20Shared/AP%20Research%202025%20-%202026/%E4%B8%B0%E5%AF%8CZotero%E5%8A%9F%E8%83%BD%E7%AC%AC%E4%BA%8C%E6%AD%A5%EF%BC%9A%E5%9C%A8Zotero%E8%BD%AF%E4%BB%B6%E7%9A%84%E6%8F%92%E4%BB%B6%E5%B8%82%E5%9C%BA%E9%87%8C%E5%AE%89%E8%A3%85%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E4%BB%B6%2026220bc7661880518399f194573c3cb7.md)
 
-[用Zotero Connector扩展功能将网页中看到的文献标题添加为Zotero软件中的条目](AP%20Research%202025%20-%202026/%E7%94%A8Zotero%20Connector%E6%89%A9%E5%B1%95%E5%8A%9F%E8%83%BD%E5%B0%86%E7%BD%91%E9%A1%B5%E4%B8%AD%E7%9C%8B%E5%88%B0%E7%9A%84%E6%96%87%E7%8C%AE%E6%A0%87%E9%A2%98%E6%B7%BB%E5%8A%A0%E4%B8%BAZotero%E8%BD%AF%E4%BB%B6%E4%B8%AD%E7%9A%84%E6%9D%A1%E7%9B%AE%2026220bc766188085b3ecfce6ccb6d01c.md)
+[用Zotero Connector扩展功能将网页中看到的文献标题添加为Zotero软件中的条目](Private%20%26%20Shared/AP%20Research%202025%20-%202026/%E7%94%A8Zotero%20Connector%E6%89%A9%E5%B1%95%E5%8A%9F%E8%83%BD%E5%B0%86%E7%BD%91%E9%A1%B5%E4%B8%AD%E7%9C%8B%E5%88%B0%E7%9A%84%E6%96%87%E7%8C%AE%E6%A0%87%E9%A2%98%E6%B7%BB%E5%8A%A0%E4%B8%BAZotero%E8%BD%AF%E4%BB%B6%E4%B8%AD%E7%9A%84%E6%9D%A1%E7%9B%AE%2026220bc766188085b3ecfce6ccb6d01c.md)
 
-[利用Zotero管理文献](AP%20Research%202025%20-%202026/%E5%88%A9%E7%94%A8Zotero%E7%AE%A1%E7%90%86%E6%96%87%E7%8C%AE%2026220bc7661880ea9c51dfe5c179a5fe.md)
+[利用Zotero管理文献](Private%20%26%20Shared/AP%20Research%202025%20-%202026/%E5%88%A9%E7%94%A8Zotero%E7%AE%A1%E7%90%86%E6%96%87%E7%8C%AE%2026220bc7661880ea9c51dfe5c179a5fe.md)
 
-[利用Word自动安装的Zotero功能生成in-text citation和参考文献列表（写论文时的事了）](AP%20Research%202025%20-%202026/%E5%88%A9%E7%94%A8Word%E8%87%AA%E5%8A%A8%E5%AE%89%E8%A3%85%E7%9A%84Zotero%E5%8A%9F%E8%83%BD%E7%94%9F%E6%88%90in-text%20citation%E5%92%8C%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E5%88%97%E8%A1%A8%EF%BC%88%E5%86%99%E8%AE%BA%E6%96%87%E6%97%B6%E7%9A%84%2026220bc7661880f6bae5ff842b1bf111.md)
+[利用Word自动安装的Zotero功能生成in-text citation和参考文献列表（写论文时的事了）](Private%20%26%20Shared/AP%20Research%202025%20-%202026/%E5%88%A9%E7%94%A8Word%E8%87%AA%E5%8A%A8%E5%AE%89%E8%A3%85%E7%9A%84Zotero%E5%8A%9F%E8%83%BD%E7%94%9F%E6%88%90in-text%20citation%E5%92%8C%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E5%88%97%E8%A1%A8%EF%BC%88%E5%86%99%E8%AE%BA%E6%96%87%E6%97%B6%E7%9A%84%2026220bc7661880f6bae5ff842b1bf111.md)
 
 ---
 
 ## Learning about basics in your field
 
-[Where do you find research papers](AP%20Research%202025%20-%202026/Where%20do%20you%20find%20research%20papers%2026220bc76618807eb005caa1060f012d.md)
+[Where do you find research papers](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Where%20do%20you%20find%20research%20papers%2026220bc76618807eb005caa1060f012d.md)
 
-[Use Better Notes in Zotero to write synopsis of the read literature](AP%20Research%202025%20-%202026/Use%20Better%20Notes%20in%20Zotero%20to%20write%20synopsis%20of%20th%2026020bc7661880d2b480e7e38410f2cd.md)
+[Use Better Notes in Zotero to write synopsis of the read literature](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Use%20Better%20Notes%20in%20Zotero%20to%20write%20synopsis%20of%20th%2026020bc7661880d2b480e7e38410f2cd.md)
 
-[I am extremely lazy and want AI to take notes for me](AP%20Research%202025%20-%202026/I%20am%20extremely%20lazy%20and%20want%20AI%20to%20take%20notes%20for%20%2026d20bc76618805da3fed1806beae518.md)
+[I am extremely lazy and want AI to take notes for me](Private%20%26%20Shared/AP%20Research%202025%20-%202026/I%20am%20extremely%20lazy%20and%20want%20AI%20to%20take%20notes%20for%20%2026d20bc76618805da3fed1806beae518.md)
 
-[Reading Paper with Miss Caracal the Genius](AP%20Research%202025%20-%202026/Reading%20Paper%20with%20Miss%20Caracal%20the%20Genius%2026020bc766188071a93edc8949a60003.md)
+[Reading Paper with Miss Caracal the Genius](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Reading%20Paper%20with%20Miss%20Caracal%20the%20Genius%2026020bc766188071a93edc8949a60003.md)
 
 ### Develop the discipline-specific thinking framework
 
-[The History Thinking Framework](AP%20Research%202025%20-%202026/The%20History%20Thinking%20Framework%2026020bc7661880f0b90fd24366d1450b.md)
+[The History Thinking Framework](Private%20%26%20Shared/AP%20Research%202025%20-%202026/The%20History%20Thinking%20Framework%2026020bc7661880f0b90fd24366d1450b.md)
 
-[The Science Thinking Framework](AP%20Research%202025%20-%202026/The%20Science%20Thinking%20Framework%2026020bc7661880dba5fefff45e82f9a6.md)
+[The Science Thinking Framework](Private%20%26%20Shared/AP%20Research%202025%20-%202026/The%20Science%20Thinking%20Framework%2026020bc7661880dba5fefff45e82f9a6.md)
 
-[The Humanities Thinking Framework](AP%20Research%202025%20-%202026/The%20Humanities%20Thinking%20Framework%2026020bc76618808b9ba0cbaa17db54a1.md)
+[The Humanities Thinking Framework](Private%20%26%20Shared/AP%20Research%202025%20-%202026/The%20Humanities%20Thinking%20Framework%2026020bc76618808b9ba0cbaa17db54a1.md)
 
-[Generating Effective Research Questions through Problem Statements](AP%20Research%202025%20-%202026/Generating%20Effective%20Research%20Questions%20through%20Pr%2027320bc76618804d8c9bee91f276876d.md)
+[Generating Effective Research Questions through Problem Statements](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Generating%20Effective%20Research%20Questions%20through%20Pr%2027320bc76618804d8c9bee91f276876d.md)
 
 ---
 
 ## Designing your study
 
-[Research Methods](AP%20Research%202025%20-%202026/Research%20Methods%2026220bc7661880a49032c13be4d74aac.md)
+[Research Methods](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Research%20Methods%2026220bc7661880a49032c13be4d74aac.md)
 
-[Experimental Techniques](AP%20Research%202025%20-%202026/Experimental%20Techniques%202be20bc766188052950dea51fb45b187.md)
+[Experimental Techniques](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Experimental%20Techniques%202be20bc766188052950dea51fb45b187.md)
 
-[Sampling Methods](AP%20Research%202025%20-%202026/Sampling%20Methods%202bd20bc766188081ad16e3db0aff5ea0.md)
+[Sampling Methods](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Sampling%20Methods%202bd20bc766188081ad16e3db0aff5ea0.md)
 
-[Design and Classification of  Questionnaires](AP%20Research%202025%20-%202026/Design%20and%20Classification%20of%20Questionnaires%202bd20bc7661880288696c39dd9fd632c.md)
+[Design and Classification of  Questionnaires](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Design%20and%20Classification%20of%20Questionnaires%202bd20bc7661880288696c39dd9fd632c.md)
 
-[Which statistical test to use for data analysis?](AP%20Research%202025%20-%202026/Which%20statistical%20test%20to%20use%20for%20data%20analysis%202be20bc7661880508271f36e5b23f2f6.md)
+[Which statistical test to use for data analysis?](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Which%20statistical%20test%20to%20use%20for%20data%20analysis%202be20bc7661880508271f36e5b23f2f6.md)
 
 ---
 
 ## Processing your data
 
-[Introduction to R (Cr. Amber Zhang)](AP%20Research%202025%20-%202026/Introduction%20to%20R%20(Cr%20Amber%20Zhang)%202bf20bc7661880d8a42efd8e53fc0077.md)
+[Introduction to R (Cr. Amber Zhang)](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Introduction%20to%20R%20(Cr%20Amber%20Zhang)%202bf20bc7661880d8a42efd8e53fc0077.md)
 
-[Introduction to Python](AP%20Research%202025%20-%202026/Introduction%20to%20Python%202bf20bc766188044b127dc31300b2e74.md)
+[Introduction to Python](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Introduction%20to%20Python%202bf20bc766188044b127dc31300b2e74.md)
 
-[Building your own neural network](AP%20Research%202025%20-%202026/Building%20your%20own%20neural%20network%202bf20bc7661880c38f05c1c6efd60f13.md)
+[Building your own neural network](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Building%20your%20own%20neural%20network%202bf20bc7661880c38f05c1c6efd60f13.md)
 
 ## Writing your paper
 
 ### Formatting and Generating Formulas with LaTeX
 
-[Introduction to LaTeX](AP%20Research%202025%20-%202026/Introduction%20to%20LaTeX%2026320bc76618807892eec1176a0996bb.md)
+[Introduction to LaTeX](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Introduction%20to%20LaTeX%2026320bc76618807892eec1176a0996bb.md)
 
 [LaTeX basic coding template](https://mcnypsunfhum.feishu.cn/wiki/PHfiwqdprihjJTksuCccCj0pn5g?from=from_copylink)
 
@@ -77,15 +77,15 @@
 
 ### Generating Formulas from photos of manuscripts
 
-[Mathpix User Guide](AP%20Research%202025%20-%202026/Mathpix%20User%20Guide%2026320bc76618808ca124c218e2df08cf.md)
+[Mathpix User Guide](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Mathpix%20User%20Guide%2026320bc76618808ca124c218e2df08cf.md)
 
 ---
 
 ### Citations & Reference List
 
-[Zotero Software Downloading, Web Extension Addition, and Recommended Plugins](AP%20Research%202025%20-%202026/Zotero%20Software%20Downloading,%20Web%20Extension%20Additio%2026220bc766188008bacee15bf729860a.md)
+[Zotero Software Downloading, Web Extension Addition, and Recommended Plugins](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Zotero%20Software%20Downloading,%20Web%20Extension%20Additio%2026220bc766188008bacee15bf729860a.md)
 
-[Style Guide](AP%20Research%202025%20-%202026/Style%20Guide%2026020bc76618809f9d2dfa5a440f7828.md)
+[Style Guide](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Style%20Guide%2026020bc76618809f9d2dfa5a440f7828.md)
 
 ---
 
@@ -93,29 +93,29 @@
 
 The aim of research ethics is to guide researchers to conduct their studies and report their findings without deception or intent to directly or indirectly cause harm to their subjects or any member of society, as the case may be. [Source](https://www.formpl.us/blog/unethical-research-practices)
 
-[Research Ethical Principles](AP%20Research%202025%20-%202026/Research%20Ethical%20Principles%2029920bc7661880728a11f0c24a40eee0.md)
+[Research Ethical Principles](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Research%20Ethical%20Principles%2029920bc7661880728a11f0c24a40eee0.md)
 
-[Why is Research Ethics Important](AP%20Research%202025%20-%202026/Why%20is%20Research%20Ethics%20Important%2029920bc7661880c3bfced68da21169dc.md)
+[Why is Research Ethics Important](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Why%20is%20Research%20Ethics%20Important%2029920bc7661880c3bfced68da21169dc.md)
 
-[Examples of Unethical Research Practices](AP%20Research%202025%20-%202026/Examples%20of%20Unethical%20Research%20Practices%2029920bc766188089bfffc46c2bf37569.md)
+[Examples of Unethical Research Practices](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Examples%20of%20Unethical%20Research%20Practices%2029920bc766188089bfffc46c2bf37569.md)
 
 ### Avoiding Plagiarism, Data Falsification & Fabrication
 
-[Plagiarism](AP%20Research%202025%20-%202026/Plagiarism%2026020bc76618809d9ab3d52fe9e7b687.md)
+[Plagiarism](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Plagiarism%2026020bc76618809d9ab3d52fe9e7b687.md)
 
-[Data Fabrication / Data Falsification](AP%20Research%202025%20-%202026/Data%20Fabrication%20Data%20Falsification%2026020bc766188016aa2eddf958018e53.md)
+[Data Fabrication / Data Falsification](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Data%20Fabrication%20Data%20Falsification%2026020bc766188016aa2eddf958018e53.md)
 
 ### **IRB**
 
-[Checklist for IRB submission & research conduct](AP%20Research%202025%20-%202026/Checklist%20for%20IRB%20submission%20&%20research%20conduct%2025f20bc7661880adb45df412d627f652.md)
+[Checklist for IRB submission & research conduct](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Checklist%20for%20IRB%20submission%20&%20research%20conduct%2025f20bc7661880adb45df412d627f652.md)
 
-[Internal Review Board (IRB)](AP%20Research%202025%20-%202026/Internal%20Review%20Board%20(IRB)%2025f20bc7661880fe9189d018e98dc4f1.md)
+[Internal Review Board (IRB)](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Internal%20Review%20Board%20(IRB)%2025f20bc7661880fe9189d018e98dc4f1.md)
 
 ### **Extended Readings**
 
-[WMA Declaration of Helsinki – Ethical Principles for Medical Research Involving Human Participants](AP%20Research%202025%20-%202026/WMA%20Declaration%20of%20Helsinki%20%E2%80%93%20Ethical%20Principles%20f%2025f20bc7661880d0b64dc3fa76e2ca60.md)
+[WMA Declaration of Helsinki – Ethical Principles for Medical Research Involving Human Participants](Private%20%26%20Shared/AP%20Research%202025%20-%202026/WMA%20Declaration%20of%20Helsinki%20%E2%80%93%20Ethical%20Principles%20f%2025f20bc7661880d0b64dc3fa76e2ca60.md)
 
-[Ethics Toolkit](AP%20Research%202025%20-%202026/Ethics%20Toolkit%2025f20bc76618802582f9d72ce09bed9c.md)
+[Ethics Toolkit](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Ethics%20Toolkit%2025f20bc76618802582f9d72ce09bed9c.md)
 
 ---
 
@@ -124,22 +124,22 @@ The aim of research ethics is to guide researchers to conduct their studies and 
 
 ---
 
-[使用markdown语法将Notion作为笔记和项目管理工具](AP%20Research%202025%20-%202026/%E4%BD%BF%E7%94%A8markdown%E8%AF%AD%E6%B3%95%E5%B0%86Notion%E4%BD%9C%E4%B8%BA%E7%AC%94%E8%AE%B0%E5%92%8C%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%2026120bc766188041b4cbd15a6b604145.md)
+[使用markdown语法将Notion作为笔记和项目管理工具](Private%20%26%20Shared/AP%20Research%202025%20-%202026/%E4%BD%BF%E7%94%A8markdown%E8%AF%AD%E6%B3%95%E5%B0%86Notion%E4%BD%9C%E4%B8%BA%E7%AC%94%E8%AE%B0%E5%92%8C%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%2026120bc766188041b4cbd15a6b604145.md)
 
 # 名校主文书
 
 ---
 
-[Johns Hopkins 2019 Example Essay 1](AP%20Research%202025%20-%202026/Johns%20Hopkins%202019%20Example%20Essay%201%2025f20bc7661880da849ddfd7c86db932.md)
+[Johns Hopkins 2019 Example Essay 1](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Johns%20Hopkins%202019%20Example%20Essay%201%2025f20bc7661880da849ddfd7c86db932.md)
 
-[Johns Hopkins 2019 Example Essay 2](AP%20Research%202025%20-%202026/Johns%20Hopkins%202019%20Example%20Essay%202%2026020bc76618803da274c90065974a18.md)
+[Johns Hopkins 2019 Example Essay 2](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Johns%20Hopkins%202019%20Example%20Essay%202%2026020bc76618803da274c90065974a18.md)
 
-[Johns Hopkins 2019 Example Essay 3](AP%20Research%202025%20-%202026/Johns%20Hopkins%202019%20Example%20Essay%203%2026020bc7661880d399dfd7983c0ccfdb.md)
+[Johns Hopkins 2019 Example Essay 3](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Johns%20Hopkins%202019%20Example%20Essay%203%2026020bc7661880d399dfd7983c0ccfdb.md)
 
-[Harvard 2019 Example Essay 1](AP%20Research%202025%20-%202026/Harvard%202019%20Example%20Essay%201%2025f20bc766188055afc9e1b08e8837a9.md)
+[Harvard 2019 Example Essay 1](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Harvard%202019%20Example%20Essay%201%2025f20bc766188055afc9e1b08e8837a9.md)
 
-[Harvard 2019 Example Essay 2](AP%20Research%202025%20-%202026/Harvard%202019%20Example%20Essay%202%2026020bc76618806c815dc94f0c69fa8e.md)
+[Harvard 2019 Example Essay 2](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Harvard%202019%20Example%20Essay%202%2026020bc76618806c815dc94f0c69fa8e.md)
 
-[Harvard 2019 Example Essay 3](AP%20Research%202025%20-%202026/Harvard%202019%20Example%20Essay%203%2026020bc766188059b9f6f20d3aa407c6.md)
+[Harvard 2019 Example Essay 3](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Harvard%202019%20Example%20Essay%203%2026020bc766188059b9f6f20d3aa407c6.md)
 
 [Stanford Example Essay](AP%20Research%202025%20-%202026/Stanford%20Example%20Essay%2025f20bc7661880279b5ae9a83d5111e8.md)
