@@ -3,7 +3,7 @@
 1. 从[Zotero](https://mcnypsunfhum.feishu.cn/wiki/OhrCwRcNji1CzgkFPZBcAhpDnvb)内置应用市场下载[Better Notes](https://github.com/windingwind/zotero-better-notes)插件
     - 要先安装[应用市场](https://github.com/syt2/zotero-addons)，再从应用市场图标点进去下载对应插件。当然点击上面的GitHub链接直接安装应该也行。
 
-1. 保存Better Notes精读科研文献笔记[模板代码](Process%20and%20Reflection%20Portfolio%20(PREP)/%E4%B8%BB%E6%92%AD%E6%94%B9%E7%9A%84Zotero%207%E8%AE%BA%E6%96%87%E7%B2%BE%E8%AF%BB%E7%AC%94%E8%AE%B0%E6%A8%A1%E6%9D%BF%E4%BB%A3%E7%A0%81%2026120bc766188025b4f3e99e56f3f42a.md)
+1. 保存Better Notes精读科研文献笔记[模板代码](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Process%20and%20Reflection%20Portfolio%20(PREP)/%E4%B8%BB%E6%92%AD%E6%94%B9%E7%9A%84Zotero%207%E8%AE%BA%E6%96%87%E7%B2%BE%E8%AF%BB%E7%AC%94%E8%AE%B0%E6%A8%A1%E6%9D%BF%E4%BB%A3%E7%A0%81%2026120bc766188025b4f3e99e56f3f42a.md)
     - 不喜欢这个模板？点击[这里](https://github.com/windingwind/zotero-better-notes/discussions/categories/note-templates)寻找自己喜爱的模板，使用代码时注意评论区反馈的报错信息。
     - 模板代码文件为`.json`格式，需要代码编辑器打开。R Studio，vscode等主流编辑器均可。打开后复制代码即可进行下一步。
     
