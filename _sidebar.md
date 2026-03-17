@@ -1,9 +1,3 @@
-- [🏠 Home](/)
-- [📚 Zotero](#start-with-zotero-for-literature-management)
-- [🔬 Learning](#learning-about-basics-in-your-field)
-- [🧪 Designing your study](#designing-your-study)
-- [📊 Processing your data](#processing-your-data)
-- [✍️ Writing your paper](#writing-your-paper)
-- [⚖️ Ethics](#ethics)
-- [📝 Markdown with Notion](#玩转notion本身)
-- [🎓 Personal Statements](#名校主文书)
+- [Home](/)
+- [Finding papers](Private%20%26%20Shared/AP%20Research%202025%20-%202026/Where%20do%20you%20find%20research%20papers%2026220bc76618807eb005caa1060f012d.md)
+
