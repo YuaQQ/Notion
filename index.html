@@ -1,23 +1,25 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Research Support Materials</title>
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css">
-  </head>
-  <body>
-    <div id="app"></div>
-    <script>
-      window.$docsify = { 
-        name: 'Quick Links',
-        loadSidebar: true,
-        externalLinkTarget: '_blank',
-        crossOriginLinks: ['https://raw.githubusercontent.com'],
-        alias: {
-          '/.*/_sidebar.md': '/_sidebar.md'
-        }
+<head>
+  <meta charset="UTF-8">
+  <title>Research Support Materials</title>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css">
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = { 
+      name: 'Research Support Materials',
+      loadSidebar: true, // This must be true
+      subMaxLevel: 2,    // Shows headings in the sidebar
+      auto2top: true,    // Scrolls to top when changing pages
+      externalLinkTarget: '_blank',
+      // Simplified alias for better local file handling
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
       }
-    </script>
-    <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-  </body>
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+</body>
 </html>
