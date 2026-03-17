@@ -2,7 +2,7 @@
 
 - **科研小助手**
 
-- *Zotero*
+> *Zotero*
   - [集成文献管理工具Zotero的下载与安装](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/%E9%9B%86%E6%88%90%E6%96%87%E7%8C%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7Zotero%E7%9A%84%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%2026220bc766188030b22de0a5851c9449.md)
   - [丰富Zotero功能第一步](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/%E4%B8%B0%E5%AF%8CZotero%E5%8A%9F%E8%83%BD%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%9A%E5%9C%A8Zotero%E8%BD%AF%E4%BB%B6%E5%86%85%E5%AE%89%E8%A3%85%E2%80%9C%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA%E2%80%9D%2026220bc76618804f92d4fd5ef69d26f7.md)
   - [丰富Zotero功能第二步](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/%E4%B8%B0%E5%AF%8CZotero%E5%8A%9F%E8%83%BD%E7%AC%AC%E4%BA%8C%E6%AD%A5%EF%BC%9A%E5%9C%A8Zotero%E8%BD%AF%E4%BB%B6%E7%9A%84%E6%8F%92%E4%BB%B6%E5%B8%82%E5%9C%BA%E9%87%8C%E5%AE%89%E8%A3%85%E5%96%9C%E6%AC%A2%E7%9A%84%E6%8F%92%E4%BB%B6%2026220bc7661880518399f194573c3cb7.md)
@@ -10,7 +10,7 @@
   - [利用Zotero管理文献](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/%E5%88%A9%E7%94%A8Zotero%E7%AE%A1%E7%90%86%E6%96%87%E7%8C%AE%2026220bc7661880ea9c51dfe5c179a5fe.md)
   - [利用Word生成citation和参考文献列表](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/%E5%88%A9%E7%94%A8Word%E8%87%AA%E5%8A%A8%E5%AE%89%E8%A3%85%E7%9A%84Zotero%E5%8A%9F%E8%83%BD%E7%94%9F%E6%88%90in-text%20citation%E5%92%8C%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E5%88%97%E8%A1%A8%EF%BC%88%E5%86%99%E8%AE%BA%E6%96%87%E6%97%B6%E7%9A%84%2026220bc7661880f6bae5ff842b1bf111.md)
 
-- *Learning*
+> *Learning*
   - [Where do you find research papers](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Where%20do%20you%20find%20research%20papers%2026220bc76618807eb005caa1060f012d.md)
   - [Use Better Notes in Zotero](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Use%20Better%20Notes%20in%20Zotero%20to%20write%20synopsis%20of%20th%2026020bc7661880d2b480e7e38410f2cd.md)
   - [I am extremely lazy and want AI to take notes](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/I%20am%20extremely%20lazy%20and%20want%20AI%20to%20take%20notes%20for%20%2026d20bc76618805da3fed1806beae518.md)
@@ -20,25 +20,25 @@
   - [The Humanities Thinking Framework](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/The%20Humanities%20Thinking%20Framework%2026020bc76618808b9ba0cbaa17db54a1.md)
   - [Generating Effective Research Questions](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Generating%20Effective%20Research%20Questions%20through%20Pr%2027320bc76618804d8c9bee91f276876d.md)
 
-- *Designing your study*
+> *Designing your study*
   - [Research Methods](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Research%20Methods%2026220bc7661880a49032c13be4d74aac.md)
   - [Experimental Techniques](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Experimental%20Techniques%202be20bc766188052950dea51fb45b187.md)
   - [Sampling Methods](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Sampling%20Methods%202bd20bc766188081ad16e3db0aff5ea0.md)
   - [Design and Classification of Questionnaires](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Design%20and%20Classification%20of%20Questionnaires%202bd20bc7661880288696c39dd9fd632c.md)
   - [Which statistical test to use?](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Which%20statistical%20test%20to%20use%20for%20data%20analysis%202be20bc7661880508271f36e5b23f2f6.md)
 
-- *Processing your data*
+> *Processing your data*
   - [Introduction to R](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Introduction%20to%20R%20(Cr%20Amber%20Zhang)%202bf20bc7661880d8a42efd8e53fc0077.md)
   - [Introduction to Python](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Introduction%20to%20Python%202bf20bc766188044b127dc31300b2e74.md)
   - [Building your own neural network](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Building%20your%20own%20neural%20network%202bf20bc7661880c38f05c1c6efd60f13.md)
 
-- *Writing your paper*
+> *Writing your paper*
   - [Introduction to LaTeX](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Introduction%20to%20LaTeX%2026320bc76618807892eec1176a0996bb.md)
   - [Mathpix User Guide](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Mathpix%20User%20Guide%2026320bc76618808ca124c218e2df08cf.md)
   - [Zotero Software Downloading & Plugins](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Zotero%20Software%20Downloading,%20Web%20Extension%20Additio%2026220bc766188008bacee15bf729860a.md)
   - [Style Guide](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Style%20Guide%2026020bc76618809f9d2dfa5a440f7828.md)
 
-- *Ethics*
+> *Ethics*
   - [Research Ethical Principles](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Research%20Ethical%20Principles%2029920bc7661880728a11f0c24a40eee0.md)
   - [Why is Research Ethics Important](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Why%20is%20Research%20Ethics%20Important%2029920bc7661880c3bfced68da21169dc.md)
   - [Examples of Unethical Research Practices](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Examples%20of%20Unethical%20Research%20Practices%2029920bc766188089bfffc46c2bf37569.md)
@@ -49,10 +49,10 @@
   - [WMA Declaration of Helsinki](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/WMA%20Declaration%20of%20Helsinki%20%E2%80%93%20Ethical%20Principles%20f%2025f20bc7661880d0b64dc3fa76e2ca60.md)
   - [Ethics Toolkit](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Ethics%20Toolkit%2025f20bc76618802582f9d72ce09bed9c.md)
 
-- **玩转Notion本身**
+> **玩转Notion本身**
   - [使用markdown语法将Notion作为笔记和项目管理工具](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/%E4%BD%BF%E7%94%A8markdown%E8%AF%AD%E6%B3%95%E5%B0%86Notion%E4%BD%9C%E4%B8%BA%E7%AC%94%E8%AE%B0%E5%92%8C%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%2026120bc766188041b4cbd15a6b604145.md)
 
-- **名校主文书**
+> **名校主文书**
   - [Johns Hopkins 2019 Example Essay 1](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Johns%20Hopkins%202019%20Example%20Essay%201%2025f20bc7661880da849ddfd7c86db932.md)
   - [Johns Hopkins 2019 Example Essay 2](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Johns%20Hopkins%202019%20Example%20Essay%202%2026020bc76618803da274c90065974a18.md)
   - [Johns Hopkins 2019 Example Essay 3](/Private%20%26%20Shared/AP%20Research%202025%20-%202026/Johns%20Hopkins%202019%20Example%20Essay%203%2026020bc7661880d399dfd7983c0ccfdb.md)
